@@ -7,7 +7,7 @@
 Hero Token Exchanger is a decentralized application (dApp) built on the Andromeda Protocol, providing a robust and secure platform for managing **HERO** tokens. It offers an innovative exchange mechanism that allows users to seamlessly swap **uandr** for **HERO**. The project focuses on core decentralized finance (DeFi) utility, bringing efficiency and security to the digital asset exchange space.
 
 ## Key Features
-- **HERO Token**: The core utility token empowering the exchange and its ecosystem.
+- **HERO Token**: The core utility token empowering the exchange and its ecosystem. 
 - **Efficient Token Swaps**: Seamless exchange mechanism enabling direct conversion of **uandr** to **HERO**.
 - **Built on Andromeda Protocol**: Leveraging the robustness, scalability, and security of the Andromeda blockchain environment.
 - **Intuitive User Interface**: Designed for ease of use, catering to both experienced crypto users and newcomers alike.
