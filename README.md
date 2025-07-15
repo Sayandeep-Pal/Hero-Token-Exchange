@@ -17,9 +17,6 @@ Hero Token Exchanger is a decentralized application (dApp) built on the Andromed
 - **Community-Centric Development**: Designed to evolve with user needs and community feedback, fostering a strong ecosystem.
 - **Modular & Scalable Architecture**: Built for future expansion and integration of new functionalities, ensuring long-term viability.
 
-## Embeddable Demo
-Experience Hero Token Exchanger in action! Check out the [Live Demo](YOUR_HERO_DAPP_LIVE_DEMO_URL_HERE) for a hands-on demonstration of the dApp.
-*(Please replace `YOUR_HERO_DAPP_LIVE_DEMO_URL_HERE` with your actual live demo URL)*
 
 ## Future Scope
 - **Expanded Trading Pairs**: Introducing additional trading pairs and liquidity pools beyond **uandr**/HERO.
