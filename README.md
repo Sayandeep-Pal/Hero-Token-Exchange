@@ -19,7 +19,7 @@ Hero Token Exchanger is a decentralized application (dApp) built on the Andromed
 
 ## Demo Link 
 
-Link : [Hero Token Exchanger](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Hero-Token-Exchange)
+Link : [Hero Token Exchanger](https://embeddables.testnet.andromedaprotocol.io/galileo-4/Hero-Lionar-Exchanger)
 
 
 ## Future Scope
